@@ -1,0 +1,51 @@
+.backgroundEmerald {
+    background-color: rgb(37, 221, 203)
+}
+
+.backgroundBlue {
+    background-color: rgb(37, 201, 203);
+    box-sizing: border-box;
+}
+
+.backgroundYellow {
+    background-color: rgb(255, 228, 122);
+    box-sizing: border-box;
+}
+
+
+
+.backgroundYellowForButtons div {
+    background-color: rgb(255, 228, 122)
+}
+
+.backgroundYellow2 {
+    background-color: rgb(235, 255, 158)
+}
+
+a.nav-link:hover {
+    background-color: rgb(147, 165, 74)
+}
+
+h2 > div {
+    padding: 30px
+}
+
+
+.welcome {
+    top: 2em !important;
+}
+
+.bio {
+    padding: 30px;
+}
+.bio > img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.s6pxfont {
+    left: 10px;
+    font-size: 12px;
+    font-weight: lighter;
+}
