@@ -30,6 +30,9 @@ h2 > div {
     padding: 30px
 }
 
+#navbar-embed {
+    width: 100%
+}
 
 .welcome {
     top: 2em !important;
