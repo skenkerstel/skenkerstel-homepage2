@@ -1,3 +1,7 @@
+body * {
+    box-sizing: border-box;
+}
+
 .backgroundEmerald {
     background-color: rgb(37, 221, 203)
 }
@@ -36,10 +40,7 @@ h2 > div {
     top: 2em !important;
 }
 
-.table-success {
-    max-height: 40%;
-    overflow-y: scroll;
-}
+
 .bio {
     padding: 30px;
 }
